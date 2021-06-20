@@ -1,0 +1,24 @@
+
+    {
+  "name": "Employee_system",
+  "version": "1.0.0",
+  "description": "system to display employee information",
+  "main": "index.js",
+    "directories":{
+        "lib":"lib",
+        "_tests_":"test"
+        
+    },    
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Sheila Chepkemoi Kiprotich",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.0.3",
+    "jest": "^24.9.0"
+  }
+}
+
+    
